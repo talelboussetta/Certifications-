@@ -12,7 +12,7 @@ I completed the DataCamp Data Scientist Associate certification. Here is the cer
 - Building machine learning models using scikit-learn
 - Model evaluation and hyperparameter tuning
 
-## This repository contains:
+### This repository contains:
   -The main certifications I got by Passing practical exams and Multiple choice question exams.
   -The Track+certificate folder contains the accomplishments I got after completing whole tracks (multiple courses)
   -The DataCamp certificates folder contains the different accomplishments I got after completing each course (from 2 to 4 hours) organized by topic
