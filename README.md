@@ -17,4 +17,5 @@ I completed the DataCamp Data Scientist Associate certification. Here is the cer
   -The Track+certificate folder contains the accomplishments I got after completing whole tracks (multiple courses)
   -The DataCamp certificates folder contains the different accomplishments I got after completing each course (from 2 to 4 hours) organized by topic
   -This Readme File :)
+
   
